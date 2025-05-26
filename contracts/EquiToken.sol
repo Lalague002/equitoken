@@ -79,5 +79,3 @@ contract EquiToken is ERC20, Ownable {
         _burn(msg.sender, amount);
     }
 }
-
-
